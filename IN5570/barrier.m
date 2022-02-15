@@ -22,7 +22,6 @@ const barrier <- monitor object barrierObject
   end enter
 end barrierObject
 
-% main program
 const main <- object main
     initially
       for i : Integer <- 1 while i < 5 by i <- i + 1
