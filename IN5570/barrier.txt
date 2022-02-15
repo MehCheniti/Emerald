@@ -1,0 +1,11 @@
+A process has started. 
+There is/ are currently 1 process(es) waiting. 
+A process has started. 
+There is/ are currently 2 process(es) waiting. 
+A process has started. 
+There is/ are currently 3 process(es) waiting. 
+A process has started. 
+Process number 1 has passed the barrier. 
+Process number 2 has passed the barrier. 
+Process number 3 has passed the barrier. 
+Process number 4 has passed the barrier. 
